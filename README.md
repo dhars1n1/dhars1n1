@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my machine learning skills.<br>👯 I’m looking to collaborate on projects involving AI in agriculture.<br>🌱 I’m currently learning more about machine learning.<br>💬 Feel free to ask me about Python programming, machine learning, and deep learning applications.<br>⚡ Fun fact: I'm also an artist and an amateur photographer.<br>
+🔭 I’m currently working on enhancing my machine learning skills.<br>👯 I’m looking to collaborate on projects involving AI in agriculture.<br>💬 Feel free to ask me about Python programming, machine learning, and deep learning applications.<br>⚡ Fun fact: I'm also an artist and an amateur photographer.<br>
 
 
 ## 🌐 Socials:
